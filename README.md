@@ -9,7 +9,6 @@ An Arduino-powered autonomous robot that follows a timed movement sequence, then
 - Obstacle detection and avoidance using directional decision-making
 - Initial timed movement sequence (forward, backward, alternating turns)
 - Controlled by Arduino Uno and dual L293D motor drivers
-- Fully simulated and tested in [Tinkercad](https://www.tinkercad.com/things/7L4jgHJg0Er-bodacious-esboo-habbi)
 
 ---
 
@@ -26,9 +25,9 @@ An Arduino-powered autonomous robot that follows a timed movement sequence, then
 ---
 
 ## Circuit Diagram
-See `circuit.png` for the full wiring layout.  
-![circuit](<img width="1280" height="730" alt="image" src="https://github.com/user-attachments/assets/c898ce88-2abe-4bd8-b5d3-edb9296f36e0" />
+![Circuit](<img width="1280" height="730" alt="image" src="https://github.com/user-attachments/assets/28740d1c-b444-428f-8557-2f83e7a5ee1c" />
 )
+
 
 ---
 
