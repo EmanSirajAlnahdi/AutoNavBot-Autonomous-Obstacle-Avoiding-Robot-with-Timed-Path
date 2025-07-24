@@ -22,11 +22,7 @@ An Arduino-powered autonomous robot that follows a timed movement sequence, then
 - 2 × 9V Batteries (for motor power)
 - USB cable (for Arduino power)
 
----
 
-## Circuit Diagram
-![image](<img width="2225" height="1269" alt="لقطة شاشة 2025-07-24 033946" src="https://github.com/user-attachments/assets/13048eaa-ed89-4f90-bac4-e7e24b52c42a" />
-)
 ---
 
 ## How It Works
